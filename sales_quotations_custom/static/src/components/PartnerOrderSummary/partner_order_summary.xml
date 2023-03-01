@@ -3,6 +3,7 @@
     <t t-name="sales_quotations_custom.PartnerOrderSummary" owl="1">
         <div class="center" style="width: 100%; text-align: center; border: 1px solid #cecece; padding: 2rem 20%; margin: 12px 0;">
             <img
+                t-attf-alt="{{partner.name}}'s Logo"
                 t-attf-src="data:image/jpg;base64,{{partner.image_256}}"
                 width="75px"
                 height="75px"
