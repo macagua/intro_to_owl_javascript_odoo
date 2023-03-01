@@ -37,7 +37,7 @@ Usage
 
 To use this module, you need to:
 
-#. Go to Sales app > Orders > Quotations and select one, and look the widget after the Payment Terms field.
+#. Go to **Sales** app > **Orders** > **Quotations** and select one, and look the widget after the *Payment Terms* field.
 
 
 Changelog
