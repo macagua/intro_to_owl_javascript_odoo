@@ -35,7 +35,7 @@ To use this module, you need to:
 License
 =======
 
-This addon is licensed under the GNU Affero General Public License Version 3.
+This addon is licensed under the `GNU Affero General Public License Version 3 <https://www.gnu.org/licenses/agpl-3.0.en.html>`_.
 
 
 Changelog
