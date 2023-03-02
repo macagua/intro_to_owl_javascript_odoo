@@ -24,14 +24,6 @@ Sales Quotations Widget Custom View
   :alt: Sales Quotations Widget Custom View
 
 
-Configuration
-=============
-
-To configure this module, you need to:
-
-#. Go to ...
-
-
 Usage
 =====
 
@@ -40,8 +32,13 @@ To use this module, you need to:
 #. Go to **Sales** app > **Orders** > **Quotations** and select one, and look the widget after the *Payment Terms* field.
 
 
+License
+=======
+
+This addon is licensed under the GNU Affero General Public License Version 3.
+
+
 Changelog
 =========
 
 1.0.0 (Unreleased)
-
